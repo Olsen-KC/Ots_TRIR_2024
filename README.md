@@ -4,4 +4,4 @@
 ## Genotyped with the SFGL GT-seq SOP. Quality filtered according to SFGL SOP.
 ## GT-seq_genotyping_output: initial outputs from GT-seq genotyping. marker info file and original genotypes.
 ## filtering_record_filtered_genotypes: QC filtering record doc, R script used for QC filtering, filtered genotypes as dataframe.
-## analyses_results: Analyses and genotypic frequency R script
+
